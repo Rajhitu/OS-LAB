@@ -1,0 +1,99 @@
+{
+    "files.associations": {
+        "FCFS.C": "cpp",
+        "SJF.C": "cpp"
+    },
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "DBMSLAB",
+            "username": "sqluser",
+            "password": "kiit",
+            "database": "lab"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "DBMSLAB",
+            "username": "sqluser",
+            "password": "kiit",
+            "database": "lab"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "DBMS_LAB",
+            "username": "sqluser",
+            "password": "kiir",
+            "database": "lab"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "DBMSLAB",
+            "username": "root",
+            "password": "kiit",
+            "database": "LAB1"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "DBMSLAB",
+            "database": "LAB1",
+            "username": "root",
+            "password": "kiit"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "test",
+            "database": "test1",
+            "username": "kiit",
+            "password": "root"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "testt",
+            "database": "test1",
+            "username": "root",
+            "password": "kiit"
+        }
+    ]
+}

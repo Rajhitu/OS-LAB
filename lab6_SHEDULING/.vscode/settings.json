@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "FCFS.C": "cpp",
+        "Q2SJF.C": "cpp",
+        "Q1FCFS.C": "cpp",
+        "Q3ROUNDROBIN.C": "cpp",
+        "Q4PRIORITY(PREM).C": "cpp",
+        "Q4APRIORITY(PREM).C": "cpp",
+        "Q4BPRORITY(NONPREM).C": "cpp",
+        "Q4APRIORITY_PREM.C": "cpp",
+        "Q4BPRORITY_NONPREM.C": "cpp"
+    }
+}

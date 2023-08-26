@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "MULTI.C": "cpp",
+        "LORA.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "EnabledIfIncludesResolve"
+}
